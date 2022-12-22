@@ -1,2 +1,7 @@
 # TypeScript_Exercises
-Acompanhe meu processo de aprendizagem de typescript. Primeiros códigos, testes, etc
+
+## typescript-resume
+Syntax summary of the main typescript commands, variable types, class syntheses, functions, etc.
+
+## typescript-firstapp
+In progress
